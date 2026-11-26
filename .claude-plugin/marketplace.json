@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "munroni",
+  "owner": {
+    "name": "munroni",
+    "url": "https://github.com/ruddbs273-hue"
+  },
+  "description": "munroni's working-style skill for Claude Code.",
+  "plugins": [
+    {
+      "name": "munroni",
+      "source": "./",
+      "description": "Working-style skill: answer first, finish without check-ins, verify with tests, type checks and lint, plain screens, writing without AI tells. English and Korean editions."
+    }
+  ]
+}

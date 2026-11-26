@@ -1,0 +1,13 @@
+{
+  "name": "munroni",
+  "version": "1.0.0",
+  "description": "munroni's working-style skill for Claude Code: answer first in plain words, finish delegated work without check-ins, ask only before steps that are hard to undo, verify with tests, type checks and lint, keep screens plain, and write without AI tells. English and Korean editions.",
+  "author": {
+    "name": "munroni",
+    "url": "https://github.com/ruddbs273-hue"
+  },
+  "homepage": "https://github.com/ruddbs273-hue/munroni-mode",
+  "repository": "https://github.com/ruddbs273-hue/munroni-mode",
+  "license": "MIT",
+  "keywords": ["skills", "working-style", "workflow", "ui", "writing", "korean"]
+}
